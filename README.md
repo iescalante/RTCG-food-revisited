@@ -17,3 +17,9 @@ Mini project for ordering food by focusing more on HTTP requests with Firebase a
 ![image](https://user-images.githubusercontent.com/61524356/135777733-bbd137cd-9c33-4765-ada3-f5b74e7cef5d.png)
 ![image](https://user-images.githubusercontent.com/61524356/135777742-0dc9b027-82d6-4914-b2b1-6640142d5cc1.png)
 
+## What's next?
+- Refactor (components, custom hooks, etc)
+- Style
+- Animation
+- Create Server-side validation
+- Try another database
